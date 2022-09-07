@@ -1,0 +1,13 @@
+avro-python3==1.10.2
+pandas==1.4.4
+tf-slim==1.1.0
+lvis==0.5.3
+opencv-python-headless==4.5.2.52
+tensorflow==2.7.0
+tf-models-official==2.7.0
+tensorflow_io==0.23.1
+keras==2.7.0
+tensorboard==2.7.0
+tensorflow-text==2.7.0
+tensorflow-gcs-config==2.7.0
+tensorflow-object-detection-api==0.1.1
