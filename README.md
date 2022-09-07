@@ -1,5 +1,5 @@
 # Detección de objetos con TensorFlow
- Este es un proyecto de visión computarizada, especificamente de detección de objetos, que es capaz de detectar dos tipos de vehiculos: autos y motos.<br>
+ Este es un proyecto de visión computarizada, especificamente de detección de objetos, que es capaz de detectar dos tipos de vehículos: autos y motos.<br>
  Es algo así
  
  ![Alt text](https://cdn-images-1.medium.com/max/2000/0*HMacEfECt2PYQOxF.jpg)
